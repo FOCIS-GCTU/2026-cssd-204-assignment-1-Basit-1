@@ -28,5 +28,5 @@ def main():
     print('...AAA......AAA...**...BBBBBBBBBB.....**...HHHH....HHHH...**')
     print()
 
-    main()
+main()
     
